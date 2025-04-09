@@ -1,1 +1,3 @@
-frhqwifry837fyu9348uf9
+a = 6
+P = 4a
+print(P)
